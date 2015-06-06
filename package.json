@@ -1,0 +1,22 @@
+{
+  "name": "webdev-assistant",
+  "version": "0.0.1",
+  "description": "Trivial Object Registry and loader",
+  "homepage": "https://github.com/blue-saber/webdev-assistant",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:blue-saber/webdev-assistant.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "author": {
+    "name": "Blue Saber"
+  },
+  "license": "Apache-2.0"
+}
