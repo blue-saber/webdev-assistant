@@ -1,6 +1,6 @@
 {
   "name": "webdev-assistant",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Trivial Object Registry and loader",
   "homepage": "https://github.com/blue-saber/webdev-assistant",
   "main": "index.js",
